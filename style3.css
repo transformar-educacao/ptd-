@@ -1,0 +1,306 @@
+body {
+  background: url('assets/NOVOBANNER.png') center center no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Fjalla One', sans-serif;
+  position: relative;
+}
+
+.container {
+  background: #f8f4e5;
+  padding: 50px;
+  border: 2px solid rgba(0, 0, 0, 1);
+  box-shadow: 15px 15px 1px #fccb94, 15px 15px 1px 2px rgba(0, 0, 0, 1);
+  max-width: 1000px;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  color: #2A293E;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  flex: 1;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group:last-child {
+  margin-right: 0;
+}
+
+.form-group.full-width {
+  width: 100%;
+}
+
+.input-container {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.label-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  white-space: nowrap; 
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .info-icon {
+  margin-left: 5px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 500px; 
+  background-color: #2A293E; 
+  color: #fff; 
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; 
+  left: 50%;
+  transform: translateX(-50%); 
+  opacity: 0;
+  transition: opacity 0.3s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  white-space: pre-wrap;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+.info-icon {
+  margin-right: 8px; 
+  cursor: pointer;
+  width: 20px; 
+  height: 20px;
+}
+
+label {
+  font-size: 14pt;
+  color: #2A293E;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input,
+textarea {
+  display: block;
+  width: 100%;
+  font-size: 14pt;
+  line-height: 28pt;
+  font-family: 'Fjalla One', sans-serif;
+  border: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 1);
+  background: #f8f4e5;
+  padding: 5px;
+  outline: none;
+  color: rgba(0, 0, 0, 1);
+  box-sizing: border-box;
+
+
+}
+
+
+.info-aulas {
+  margin-top: 5px;
+  font-size: 0.9em;
+  color: #666;
+  font-style: italic;
+}
+
+
+
+textarea {
+  resize: vertical;
+  min-height: 28pt;
+}
+
+input:focus,
+textarea:focus {
+  border-bottom: 5px solid #fccb94;
+}
+
+button {
+  display: block;
+  margin: 0;
+  line-height: 28pt;
+  padding: 0 20px;
+  background: #fccb94;
+  letter-spacing: 2px;
+  transition: .2s all ease-in-out;
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 3px 3px 1px 1px #98a6cc, 3px 3px 1px 2px rgba(0, 0, 0, 1);
+  font-size: 12pt;
+}
+
+button:hover {
+  background: #ee9b36;
+  color: white;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+#conhecimentos,
+#habilidades,
+#atitudes,
+#indicadores,
+#contexto {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 1.5;
+}
+
+#elementosCompetencia {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#marcasText {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-between; 
+  margin-bottom: 15px;
+  align-items: flex-start;
+}
+
+.checkbox-group {
+  display: flex;
+  align-items: center;
+  width: 35%;
+  box-sizing: border-box;
+}
+
+.checkbox-group label {
+  font-size: 13pt;
+  color: #2A293E;
+  white-space: nowrap;
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+}
+
+.checkbox-group:nth-child(3) {
+  padding-left: 20px; 
+}
+
+.checkbox-group input[type="checkbox"] {
+  margin-right: 10px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 2px solid #2A293E;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+}
+
+.checkbox-group input[type="checkbox"]:checked {
+  background-color: #fccb94;
+  border-color: #fccb94;
+}
+
+.checkbox-group input[type="checkbox"]:checked::before {
+  content: '\2714';
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2A293E;
+}
+
+a {
+  text-decoration: none;
+  color: #2A293E;
+  background: #fccb94;
+  letter-spacing: 2px;
+  transition: .2s all ease-in-out;
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 3px 3px 1px 1px #98a6cc, 3px 3px 1px 2px rgba(0, 0, 0, 1);
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.back-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fccb94;
+  padding: 10px 20px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 3px 3px 1px 1px #98a6cc, 3px 3px 1px 2px rgba(0, 0, 0, 1);
+  transition: .2s all ease-in-out;
+  text-decoration: none;
+  color: #2A293E;
+  font-size: 12pt;
+  letter-spacing: 2px;
+}
+
+.back-button:hover {
+  background: #ee9b36;
+  color: white;
+}
+
+#nomeTitle,
+#aulasTitle,
+#indicadoresTitle,
+#conhecimentosTitle,
+#habilidadesTitle,
+#atitudesTitle,
+#contextoTitle {
+  font-weight: bold;
+}
+
+#conhecimentos,
+#habilidades,
+#atitudes,
+#contexto,
+#indicadores{
+  resize: none;
+  overflow: hidden;
+}
+
+.char-count {
+  display: block;
+  text-align: right;
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 5px;
+}

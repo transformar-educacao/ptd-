@@ -1,0 +1,131 @@
+body {
+    background: url('assets/NOVOBANNER.png') center center no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fjalla One', sans-serif;
+  }
+  
+  .container {
+    background: #f8f4e5;
+    padding: 50px;
+    border: 2px solid rgba(0, 0, 0, 1);
+    box-shadow: 15px 15px 1px #fccb94, 15px 15px 1px 2px rgba(0, 0, 0, 1);
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 0px;
+    color: #2A293E;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 14pt;
+    color: #2A293E;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    display: block;
+    width: 100%;
+    font-size: 14pt;
+    line-height: 28pt;
+    font-family: 'Fjalla One', sans-serif;
+    border: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 1);
+    background: #f8f4e5;
+    padding-left: 5px;
+    outline: none;
+    color: rgba(0, 0, 0, 1);
+  }
+  
+  input[type="text"]:focus {
+    border-bottom: 5px solid #fccb94;
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+    line-height: 28pt;
+    padding: 0 20px;
+    background: #fccb94;
+    letter-spacing: 2px;
+    transition: .2s all ease-in-out;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 1);
+    box-shadow: 3px 3px 1px 1px #98a6cc, 3px 3px 1px 2px rgba(0, 0, 0, 1);
+  }
+  
+  button:hover {
+    background: #ff8c00;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 1);
+  }
+  
+  #editBtn {
+    background: #fccb94;
+    letter-spacing: 2px;
+  }
+  
+  #editBtn:hover {
+    background: #ff8c00;
+    color: white;
+  }
+  
+  #saveBtn {
+    background: #fccb94;
+    letter-spacing: 2px;
+  }
+  
+  #saveBtn:hover {
+    background: #ff8c00;
+    color: white;
+  }
+  
+  #generatePdfBtn {
+    background: #fccb94;
+    letter-spacing: 2px;
+  }
+  
+  #generatePdfBtn:hover {
+    background: #ff8c00;
+    color: white;
+  }
+  
+  ::selection {
+    background: #ffc8ff;
+  }
+  
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus {
+    border-bottom: 5px solid #95a4ff;
+    -webkit-text-fill-color: #2A293E;
+    -webkit-box-shadow: 0 0 0px 1000px #f8f4e5 inset;
+    transition: background-color 5000s ease-in-out 0s;
+  }
+
+  #contribuicoesTitle{
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+  }
+
+  #backBtn{
+    margin-left: 10px;
+  }

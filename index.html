@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de PTD</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js" defer></script>
+    <script src="script.js" defer></script>
+    <script src="select.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Formulário Geração de PTD</h2>
+        <form id="courseForm">
+            <div class="form-row">
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Selecione o eixo tecnológico conforme plano de curso</span>
+                        </div>
+                        <label for="eixo" id="eixoTitle">Eixo:</label>
+                    </div>
+                    <select id="eixo" name="eixo" required>
+                        <option value="">Selecione o eixo...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Selecione o segmento conforme plano de curso</span>
+                        </div>
+                        <label for="segmento" id="segmentoTitle">Segmento:</label>
+                    </div>
+                    <select id="segmento" name="segmento" required>
+                        <option value="">Selecione o segmento...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Selecione o nome do curso conforme plano de curso</span>
+                        </div>
+                        <label for="course" id="courseTitle">Curso:</label>
+                    </div>
+                    <select id="course" name="course" required>
+                        <option value="">Selecione o curso...</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Tipo de curso conforme plano de curso</span>
+                        </div>
+                        <label for="tipo" id="tipoTitle">Tipo de Curso:</label>
+                    </div>
+                    <select id="tipo" name="tipo" required>
+                        <option value="">Selecione o tipo de curso...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Carga horária do curso conforme plano de curso</span>
+                        </div>
+                        <label for="workload" id="workloadTitle">Carga Horária Curso:</label>
+                    </div>
+                    <input type="number" id="workload" name="workload" min="1" placeholder="Digite a carga horária do curso..." required>
+                </div>
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Digite quantas horas terá  cada encontro/aula</span>
+                        </div>
+                        <label for="situAprendizagem" id="situTitle">Carga Horária Aula:</label>
+                    </div>
+                    <input type="number" id="situAprendizagem" name="situAprendizagem" placeholder="Informe quantas situações de aprendizagem..." required>
+                </div>
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Digite a carga horária da unidade curricular conforme plano de curso</span>
+                        </div>
+                        <label for="ch" id="cargaTitle">Carga Horária da UC:</label>
+                    </div>
+                    <input type="number" id="ch" name="ch" placeholder="Informe a carga horaria da UC..." min="1" max="5000" required>
+                </div>
+             
+            </div>
+            
+            <div class="form-row">
+                <div class="form-group">
+                    <div class="label-container">
+                        <div class="tooltip">
+                            <img src="assets/information.png" alt="Informação" class="info-icon">
+                            <span class="tooltip-text">Digite o nome da unidade curricular conforme plano de curso</span>
+                        </div>
+                        <label for="uc" id="ucTitle">Unidade Curricular:</label>
+                    </div>
+                    <input type="text" id="uc" name="uc" placeholder="Informe o nome/código da UC" required>
+                </div>
+            </div>
+            <button type="submit">Avançar</button>
+        </form>
+    </div>  
+</body>
+</html>

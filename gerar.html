@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gerador de PTD</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js" defer></script>
+    <script src="script4.js" defer></script>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+    <div class="container">
+        <section>
+            <h2 id="ProjetoIntegrador">Finalizar PTD</h2>
+            <form id="projetoIntegradorForm">
+                <div class="form-group">
+                    <label for="projetoIntegradorTexto" id="contribuicoesTitle">Contribuições da UC para o Projeto Integrador</label> <br><br>
+                    <input type="text" id="projetoIntegradorTexto" name="projetoIntegradorTexto" placeholder="Digite aqui..." required>
+                    <br><br>
+                    <button id="editBtn" style="display: none;">Editar</button>
+                    <br><br>
+                    <button id="saveBtn">Salvar</button>
+                    <br><br>
+                </div>
+                <button type="button" id="generatePdfBtn">Gerar PTD</button>
+                <button type="button" id="backBtn">Voltar</button>
+            </form>
+        </section>
+    </div>
+</body>
+</html>

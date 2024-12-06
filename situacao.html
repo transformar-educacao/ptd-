@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gerador de PTD</title>
+    <script src="script3.js" defer></script>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+    <div class="container">
+        
+        <section>
+
+            <h2 id="situacaoTitle">Situação de Aprendizagem</h2>
+            <br>
+            <!-- <div>
+                <h1>
+                    <input id="cargaTotal" type="text" disabled>
+                </h1>
+            </div> -->
+            <form id="situacaoForm">
+                <div class="form-row">
+                    <div class="form-group">
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" alt="Informação" class="info-icon">
+                                    <span class="tooltip-text">Defina um nome para a situação de aprendizagem</span>
+                                </div>
+                                <label for="nomeSituacao" id="nomeTitle">Nome da Situação de Aprendizagem:</label>
+                            </div>
+                            <input type="text" id="nomeSituacao" name="nomeSituacao" maxlength="100" placeholder="Informe o nome da situação de aprendizagem" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" alt="Informação" class="info-icon">
+                                    <span class="tooltip-text">Determine o número de aulas para o desenvolvimento dessa situação de aprendizagem</span> 
+                                </div>
+                                <label for="nAulas" id="aulasTitle">Carga Horária da Situação de Aprendizagem:</label>
+                            </div>
+                            <input type="number" id="nAulas" name="nAulas" placeholder="Informe a carga horária dessa situação..." min="1" required>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group full-width">
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" alt="Informação" class="info-icon">
+                                    <span class="tooltip-text">Digite os indicadores conforme plano de curso, que serão trabalhados nessa situação de aprendizagem</span>
+                                </div>
+                                <label for="indicadores" id="indicadoresTitle">Indicadores:</label>
+                            </div>
+                            <textarea id="indicadores" name="indicadores" maxlength="1534" data-auto-expand placeholder="Informe os indicadores trabalhados..." required></textarea>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group full-width">
+                        <div class="input-container">
+                            <label for="elementosCompetencia" id="elementosCompetencia">Elementos da Competência:</label>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" class="info-icon" alt="Informação">
+                                    <span class="tooltip-text">Liste os conhecimentos, conforme plano de curso, que serão mobilizados para o desenvolvimento da competência e indicadores que estão sendo trabalhados nessa situação de aprendizagem</span>
+                                </div>
+                                <label for="conhecimentos" id="conhecimentosTitle">Conhecimentos: </label>
+                            </div>
+                            <textarea id="conhecimentos" name="conhecimentos" rows="1" maxlength="360" data-auto-expand placeholder="Digite aqui os conhecimentos..."></textarea>
+                        </div>
+                    </div>
+                
+                    <div class="form-group">
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" class="info-icon" alt="Informação">
+                                    <span class="tooltip-text">Liste as habilidades, conforme plano de curso, que serão mobilizadas para o desenvolvimento da competência e indicadores que estão sendo trabalhados nessa situação de aprendizagem</span>
+                                </div>
+                                <label for="habilidades" id="habilidadesTitle">Habilidades: </label>
+                            </div>
+                            <textarea id="habilidades" name="habilidades" rows="1" maxlength="360" data-auto-expand placeholder="Digite aqui as habilidades..."></textarea>
+                        </div>
+                    </div>
+                
+                    <div class="form-group">
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" class="info-icon" alt="Informação">
+                                    <span class="tooltip-text">Liste as Atitudes/Valores, conforme plano de curso, que serão mobilizados para o desenvolvimento da competência e indicadores que estão sendo trabalhados nessa situação de aprendizagem</span>
+                                </div>
+                                <label for="atitudes" id="atitudesTitle">Atitudes/Valores: </label>
+                            </div>
+                            <textarea id="atitudes" name="atitudes" rows="1" maxlength="380" data-auto-expand placeholder="Digite aqui as atitudes/valores"></textarea>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group full-width">
+                        <div class="input-container">
+                            <div class="label-container">
+                                <div class="tooltip">
+                                    <img src="assets/information.png" class="info-icon" alt="Informação">
+                                    <span class="tooltip-text">Elabore um contexto para a situação de aprendizagem que possibilite o exercício dos fazeres profissionais previstos nos indicadores selecionados</span>
+                                </div>
+                                <label for="contexto" id="contextoTitle">Contexto da Situação de Aprendizagem:</label>
+                            </div>
+                            <textarea id="contexto" name="contexto" rows="1" maxlength="2485" placeholder="Digite aqui o contexto da situação de aprendizagem..." data-auto-expand></textarea>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label id="marcasText">Marcas Formativas:</label>
+                    <div class="form-row">
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="dominioTecnico" name="marcasFormativas" value="Domínio técnico-científico">
+                            <label for="dominioTecnico" id="dominioTitle">Domínio técnico-científico</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="visaoCritica" name="marcasFormativas" value="Visão crítica">
+                            <label for="visaoCritica" id="visaoTitle">Visão crítica</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="atitudeSustentavel" name="marcasFormativas" value="Atitude sustentável">
+                            <label for="atitudeSustentavel" id="sustentavelTitle">Atitude sustentável</label>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="colaboracao" name="marcasFormativas" value="Colaboração e comunicação">
+                            <label for="colaboracao" id="colaboracaoTitle">Colaboração e comunicação</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="criatividade" name="marcasFormativas" value="Criatividade e atitude empreendedora">
+                            <label for="criatividade" id="criatividadeTitle">Criatividade e atitude empreendedora</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="autonomiaDigital" name="marcasFormativas" value="Autonomia digital">
+                            <label for="autonomiaDigital" id="autonomiaTitle">Autonomia digital</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="button-container">
+                    <a href="#" id="backButton" class="back-button">
+                        Voltar
+                    </a>
+                    <button type="submit" class="submit-button">Avançar</button>
+                </div>
+            </form>
+        </section>
+    </div>
+</body>
+</html>

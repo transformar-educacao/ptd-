@@ -1,0 +1,175 @@
+body {
+    background: url('assets/NOVOBANNER.png') center center no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fjalla One', sans-serif;
+  }
+  
+  .container {
+    background: #f8f4e5;
+    padding: 50px;
+    border: 2px solid rgba(0, 0, 0, 1);
+    box-shadow: 15px 15px 1px #fccb94, 15px 15px 1px 2px rgba(0, 0, 0, 1);
+    max-width: 1000px;
+    width: 100%;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #2A293E;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .accordion-wrapper {
+    margin-bottom: 20px;
+  }
+  
+  .accordion-item {
+    margin-bottom: 10px;
+  }
+  
+  .accordion-item input[type="checkbox"] {
+    display: none;
+  }
+  
+  .accordion-item label {
+    display: block;
+    background: #fccb94;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 1);
+    font-size: 14pt;
+    color: #2A293E;
+  }
+  
+  .accordion-item label:hover {
+    background: #ee9b36;
+  }
+  
+  .accordion-content {
+    background: #f8f4e5;
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-top: none;
+    display: none;
+  }
+  
+  .accordion-item input[type="checkbox"]:checked + label + .accordion-content {
+    display: block;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 14pt;
+    color: #2A293E;
+    margin-bottom: 5px;
+  }
+  
+  .form-group textarea {
+    width: 100%;
+    padding: 5px;
+    font-size: 14pt;
+    line-height: 1;
+    font-family: 'Fjalla One', sans-serif;
+    border: none;
+    border-bottom: 2px solid rgba(0, 0, 0, 1);
+    background: #f8f4e5;
+    outline: none;
+    color: rgba(0, 0, 0, 1);
+    resize: vertical;
+  }
+  
+  .form-group textarea:focus {
+    border-bottom: 5px solid #fccb94;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+  
+  button {
+    line-height: 28pt;
+    padding: 0 20px;
+    background: #fccb94;
+    letter-spacing: 2px;
+    transition: .2s all ease-in-out;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 1);
+    box-shadow: 3px 3px 1px 1px #98a6cc, 3px 3px 1px 2px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    font-size: 12pt;
+  }
+  
+  button:hover {
+    background: #ee9b36;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 1);
+  }
+
+  .save-button{
+    align-items: center;
+    text-align: center;
+    margin-left: 420px;
+  }
+
+  .label-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.info-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.tooltip .tooltip-text {
+    visibility: hidden;
+    width: 200px;
+    background-color: #2A293E;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+#atividadesTitle,
+#odasTitle,
+#procedimentosTitle{
+font-weight: bold;
+}
+
+#backPageBtn,
+#nextPageBtn {
+    margin: 0;
+}

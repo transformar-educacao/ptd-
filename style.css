@@ -1,0 +1,196 @@
+body {
+  background: url('assets/NOVOBANNER.png') center center no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Fjalla One', sans-serif;
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.container {
+  background: #f8f4e5;
+  padding: 30px;
+  border: 2px solid rgba(0, 0, 0, 1);
+  box-shadow: 15px 15px 1px #fccb94, 15px 15px 1px 2px rgba(0, 0, 0, 1);
+  max-width: 1000px;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 0px;
+  color: #000000;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  flex: 1 1 200px;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.form-group:last-child {
+  margin-right: 0;
+}
+
+.label-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+label {
+  font-size: 14pt;
+  color: #000000;
+  display: block;
+  margin: 0;
+}
+
+input, select {
+  display: block;
+  width: 100%;
+  font-size: 14pt;
+  line-height: 28pt;
+  font-family: 'Fjalla One', sans-serif;
+  border: none;
+  border-bottom: 2px solid #000000;
+  background: #f8f4e5;
+  padding-left: 5px;
+  outline: none;
+  color: rgba(0, 0, 0, 1);
+  box-sizing: border-box;
+}
+
+input:focus, select:focus {
+  border-bottom: 5px solid #fccb94;
+}
+
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url('data:image/svg+xml;utf8,<svg fill="black" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 5px;
+}
+
+button {
+  display: block;
+  margin: 50px auto 0;
+  line-height: 28pt;
+  padding: 0 20px;
+  background: #fccb94;
+  letter-spacing: 2px;
+  transition: .2s all ease-in-out;
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 3px 3px 1px 1px #98a6cc, 3px 3px 1px 2px rgba(0, 0, 0, 1);
+}
+
+button:hover {
+  background: #ee9b36;
+  color: white;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.info-icon {
+  margin-right: 8px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 200px;
+  background-color: #2A293E;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -100px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+#courseTitle,
+#workloadTitle,
+#eixoTitle,
+#segmentoTitle,
+#tipoTitle,
+#ucTitle,
+#cargaTitle,
+#situTitle {
+  font-weight: bold;
+}
+
+@media (max-width: 425px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 92%;
+  }
+  .container h2 {
+    font-size: 3.2rem;
+    margin-bottom: 70px;
+  }
+  .form-row {
+    display: block;
+  }
+  .form-group label {
+    font-size: 2.7rem;
+  }
+  .form-group input, .form-group select {
+    font-size: 1.9rem;
+  }
+  #courseForm button {
+    width: 100%;
+    height: 100px;
+    font-size: 1.9rem;
+  }
+}
+
+#progress{
+  background: #333;
+  border-radius: 13px;
+  height: 20px;
+  width: 300px;
+  padding: 3px;
+}
+
+#progress:after{
+  content: '';
+  display: block;
+  background: rgb(111, 0, 255);
+  width: 50%;
+  height: 100%;
+  border-radius: 9px;
+}

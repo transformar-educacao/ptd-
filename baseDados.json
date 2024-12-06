@@ -1,0 +1,1795 @@
+[
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Açougueiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Administrador de Banco de Dados",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Administrador de Redes",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Administrador de Redes",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Agente Comunitário de Saúde",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "400"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Educacional",
+        "Curso": "Agente de Alimentação Escolar",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Agente de Combate às Endemias",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Meio Ambiente (Ambiente e Saúde)",
+        "Curso": "Agente de Desenvolvimento Socioambiental",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Meio Ambiente (Ambiente e Saúde)",
+        "Curso": "Agente de Gestão de Resíduos Sólidos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Turismo",
+        "Curso": "Agente de Informações Turísticas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Asseio, Conservação e Zeladoria",
+        "Curso": "Agente de Limpeza e Conservação",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Social",
+        "Curso": "Agente de projetos sociais",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Turismo",
+        "Curso": "Agente de Viagens",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Ajudante de Desembaraço Aduaneiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Comunicação",
+        "Curso": "Animador Digital 3d",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional Comercial em Serviços Administrativos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social.",
+        "Segmento": "Social",
+        "Curso": "Aprendizagem Profissional de Qualificação em Comércio de bens, Serviços e Turismo.",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Aprendizagem Profissional de Qualificação em Farmácias e Drogarias",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "944"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Aprendizagem Profissional de Qualificação em Programação de Sistemas com Aplicações Financeiras",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Aprendizagem Profissional de Qualificação em Programação de sistemas com aplicações financeiras",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Administrativos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Administrativos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Administrativos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Administrativos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Administrativos 4.0 (EaD)",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Comerciais",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem profissional de qualificação em Serviços Comerciais",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Comerciais",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "840"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Comerciais",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Transporte e Armazenagem",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Atendimento em Postos de Combustíveis",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Transporte e Armazenagem",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Atendimento em Postos de Combustíveis",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Farmácias e Drogarias",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Lanchonete",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Lanchonete",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Supermercados",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Supermercados",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem profissional de qualificação em Serviços de supermercados",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Supermercados",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Supermercados 4.0 (EaD)",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem profissional de qualificação em Serviços de vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Vendas 4.0 (EaD)",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Vigilância",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços de Vigilância",
+        "Tipo": "",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços e Operações Logísticas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "930"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem profissional de qualificação em serviços e operações logísticas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Hospedagem",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Hoteleiros",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Hospitalidade",
+        "Curso": "Aprendizagem Profissional de Qualificação em Serviços Hoteleiros",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Social",
+        "Curso": "Aprendizagem Profissional em Comércio de bens, Serviços e Turismo",
+        "Tipo": "",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Social",
+        "Curso": "Aprendizagem Profissional em Comércio de Bens, Serviços e Turismo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Social",
+        "Curso": "Aprendizagem Profissional em Comércio de Bens, Serviços e Turismo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "1560"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional Técnica em Administração",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional Técnica em Administração",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Aprendizagem Profissional Técnica em Informática",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Aprendizagem Profissional Técnica em Informática",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "2400"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional Técnica em Logística",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Aprendizagem Profissional Técnica em Logística",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1600"
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Aprendizagem Profissional Técnica em Segurança do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Aprendizagem Profissional Técnica em Segurança do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "2400"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Artesão de Pintura em Tecido",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Artesão em Bordado à Mão",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente Administrativo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente de Crédito e Cobrança",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Desenvolvimento de Aplicativos Computacionais",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Implantação e Administração de Infraestrutura de Redes de Computadores",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente de Logística",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente de Marketing e Vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Operação de Redes de Computadores",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "308"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente de Pessoal",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Produção 3D",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Assistente de Produção de Moda para Visual Merchandising",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Produção Gráfica",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente de Recursos Humanos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Educacional",
+        "Curso": "Assistente de Secretaria Escolar",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "180"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Segurança em Redes de Computadores",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Assistente de Serviços em Comércio Exterior",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Suporte e Manutenção de Computadores",
+        "Tipo": "Qualificação Profissional",
+        "Carga Horária do Curso:": "272"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Assistente de Tecnologias da Informação",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Assistente em Pesquisa e Criação de Imagem de Moda",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Assistente em Produção para Editoriais e Publicidade",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Assistente Financeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Atendente de Farmácia",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "264"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Atendente de Farmácia",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "264"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Atendente de Farmácia",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Atendente de Lanchonete",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Atendente de Lanchonete",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Auxiliar de Confeitaria",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Auxiliar de Cozinha",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Auxiliar de Cozinha",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Auxiliar de Nutrição e Dietética",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Auxiliar de Padeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "180"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Auxiliar em Saúde Bucal",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "264"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Beleza",
+        "Curso": "Barbeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "172"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Barista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Bartender",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Beleza",
+        "Curso": "Cabeleireiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "400"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Beleza",
+        "Curso": "Cabeleireiro Assistente",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "230"
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Construção e Reforma",
+        "Curso": "Cadista para Construção Civil",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Hospedagem",
+        "Curso": "Camareira(O) em Meios de Hospedagem",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Chapista/Chapeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Churrasqueiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Comprador",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Confeccionador de Bijuterias",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Confeiteiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Confeiteiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Copeiro Hospitalar",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Costureiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "212"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Costureiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "212"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Cozinheiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "500"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Cozinheiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "500"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Cuidador de Idoso",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Cuidador de Idoso",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Cuidador Infantil",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Beleza",
+        "Curso": "Depilador",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Desenhista de Maquete Eletrônica",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Desenhista de Moda",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Desenvolvedor Back-End",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "500"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Games",
+        "Curso": "Desenvolvedor de Games",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "3086"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Desenvolvedor Front-End",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "264"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Desenvolvedor Mobile",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "392"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Doceiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Comunicação",
+        "Curso": "Editor de Projeto Visual Gráfico",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Editor de Vídeo Digital",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "272"
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Instalação, Manutenção e Reparação",
+        "Curso": "Eletricista Instalador Predial de Baixa Tensão",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização em Auxilar de Enfermagem do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Profissional Técnica em Mamografia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "360"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica de Enfermagem em Saúde da Família",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica de Enfermagem em Saúde Mental",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica de Enfermagem em Unidade de Terapia Intensiva",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica de Enfermagem em Urgência e Emergência",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Atendimento Podológico ao Paciente com Diabetes",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Enfermagem do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "340"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Enfermagem em Neonatologia e Pediatria",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Enfermagem em Oncologia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "360"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Instrumentação Cirúrgica",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "360"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Medicina Nuclear",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "300"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Especialização Técnica em Radioterapia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "360"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Estilista de Moda",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "408"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Estoquista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Florista",
+        "Tipo": "",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Fotógrafo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "190"
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Transporte e Armazenagem",
+        "Curso": "Frentista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Garçom",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Garçom",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Higienista em Serviços de Saúde",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Hostess",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Instalador e Reparador de Redes de Computadores",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Instalador e Reparador de Redes de Computadores",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Beleza",
+        "Curso": "Manicure e Pedicure",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Beleza",
+        "Curso": "Maquiador",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Massagista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Masseiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Modelista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "210"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Montador e Reparador de Computador",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "168"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Operador de Caixa",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Operador de Caixa",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Operador de Computador",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "196"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Comunicação",
+        "Curso": "Operador de Editoração Eletrônica",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Operador de Supermercados",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Operador de Telemarketing",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Operador de Telemarketing",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Eventos",
+        "Curso": "Organizador de Eventos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "180"
+    },
+    {
+        "Eixo": "Produção Alimentícia",
+        "Segmento": "Produção de alimentos",
+        "Curso": "Padeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "260"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Pizzaiolo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Pizzaiolo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Infraestrutura",
+        "Segmento": "Asseio, Conservação e Zeladoria",
+        "Curso": "Porteiro e Vigia",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Programador de Sistemas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "200"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Programador Web",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Programador Web",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Promotor de Vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Promotor de Vendas",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Recepcionista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Eventos",
+        "Curso": "Recepcionista de Eventos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Hospedagem",
+        "Curso": "Recepcionista em Meios de Hospedagem",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Recepcionista em Serviços de Saúde",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Lazer",
+        "Curso": "Recreador",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Repositor de Mercadorias",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Representante Comercial",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Representante Comercial",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Salgadeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Salgadeiro",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Serígrafo",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Sushiman",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Administração",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Administração",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Administração",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Análises Clínicas",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Técnico em Comércio Exterior",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Técnico em Computação Gráfica",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Contabilidade",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Design",
+        "Curso": "Técnico em Design de Interiores",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Design",
+        "Curso": "Técnico em Design de Interiores",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Enfermagem",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Estética",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Eventos",
+        "Curso": "Técnico em Eventos",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Farmácia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde.",
+        "Segmento": "Saúde.",
+        "Curso": "Técnico em Farmácia.",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Farmácia.",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Finanças",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Técnico em Gastronomia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Turismo",
+        "Curso": "Técnico em Guia de turismo",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Turismo",
+        "Curso": "Técnico em Guia de Turismo",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Turismo",
+        "Curso": "Técnico em Guia de turismo",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Técnico em Informática",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Técnico em Informática para Internet",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Técnico em Informática para Internet",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Logística",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Logística",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Técnico em Manutenção e Suporte em Informática",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Massoterapia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Meio Ambiente (Ambiente e Saúde)",
+        "Curso": "Técnico em Meio Ambiente",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Meio Ambiente (Ambiente e Saúde)",
+        "Curso": "Técnico em Meio Ambiente",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Nutrição e Dietética",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Nutrição e Dietética",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Nutrição e Dietética",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Óptica",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Podologia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Técnico em Processos Fotográficos",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Moda",
+        "Curso": "Técnico em Produção de Moda",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Games",
+        "Curso": "Técnico em Programação de Jogos Digitais",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Games",
+        "Curso": "Técnico em Programação de Jogos Digitais",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Prótese Dentária",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Radiologia",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1600"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Recursos Humanos",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Recursos Humanos",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Técnico em Redes de Computadores",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Técnico em Saúde Bucal",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Desenvolvimento Educacional e Social",
+        "Segmento": "Educacional",
+        "Curso": "Técnico em Secretaria Escolar",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Gestão",
+        "Curso": "Técnico em Secretariado",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Técnico em Segurança do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Técnico em Segurança do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Segurança",
+        "Segmento": "Segurança",
+        "Curso": "Técnico em Segurança do Trabalho",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1200"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Técnico em Teatro",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Artes",
+        "Curso": "Técnico em Teatro",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "1000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Técnico em Transações Imobiliárias",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Técnico em Transações Imobiliárias",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "960"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Técnico em Transações Imobiliárias",
+        "Tipo": "Educação Profissional Técnica de Nível Médio",
+        "Carga Horária do Curso:": "800"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Banco de Dados",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Defesa Cibernética",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Tecnologia em Gastronomia",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "1600"
+    },
+    {
+        "Eixo": "Turismo, Hospitalidade e Lazer",
+        "Segmento": "Gastronomia",
+        "Curso": "Tecnologia em Gastronomia",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": ""
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Gestão da Tecnologia da Informação",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Jogos Digitais",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Redes de Computadores",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Segurança da Informação",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Informação e Comunicação",
+        "Segmento": "Tecnologia da Informação",
+        "Curso": "Tecnologia em Sistemas para Internet",
+        "Tipo": "Educação Superior",
+        "Carga Horária do Curso:": "2000"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Vendedor",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Vendedor",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Ambiente e Saúde",
+        "Segmento": "Saúde",
+        "Curso": "Vendedor de Produtos e Serviços Ópticos",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "240"
+    },
+    {
+        "Eixo": "Gestão e Negócios",
+        "Segmento": "Comércio",
+        "Curso": "Vendedor Permissionário",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Design",
+        "Curso": "Vitrinista",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Design",
+        "Curso": "Web Designer",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    },
+    {
+        "Eixo": "Produção Cultural e Design",
+        "Segmento": "Design",
+        "Curso": "Webdesigner",
+        "Tipo": "Formação Inicial e Continuada",
+        "Carga Horária do Curso:": "160"
+    }
+]
